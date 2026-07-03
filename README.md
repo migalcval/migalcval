@@ -50,8 +50,8 @@ from architecture and data modeling to the final user experience.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=migalcval&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migalcval&layout=compact" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=migalcval&show_icons=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=migalcval&layout=compact" />
 </p>
 
 ---
