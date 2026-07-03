@@ -41,9 +41,8 @@ from architecture and data modeling to the final user experience.
 
 ### Featured Projects
 
-- **[Project Name](https://github.com/your-username/repo-name)** — Brief, concrete description of the problem it solves and the stack used.
-- **[Project Name](https://github.com/your-username/repo-name)** — Brief, concrete description of the problem it solves and the stack used.
-- **[Project Name](https://github.com/your-username/repo-name)** — Brief, concrete description of the problem it solves and the stack used.
+- **[Reservation Management System](https://github.com/migalcval/gestion-reservas-fullstack)** — Full-stack reservation management app with a decoupled Spring Boot REST API and a React frontend, including automated backend testing and Swagger API documentation.
+- **[IA LightsOut](https://github.com/migalcval/IA_LightsOut)** — AI planning project that models the Lights Out puzzle in PDDL and solves it using an automated planner, with Python tooling around problem generation and execution.
 
 ---
 
